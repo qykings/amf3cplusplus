@@ -1,4 +1,4 @@
-// amf3demo.cpp : Defines the entry point for the console application.
+ï»¿// amf3demo.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -81,7 +81,7 @@ void write_data(void* file,const unsigned char* buf,size_t size)
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//{a:"123",b:[1,"2",0.3],c:"ºº×Ö"}
+	//{a:"123",b:[1,"2",0.3],c:"æ±‰å­—"}
 	const char* test = "0a0b010363060de6b189e5ad970361060731323303620907010401060332053fd333333333333301";
 	
 	AMF3::context ctx;
