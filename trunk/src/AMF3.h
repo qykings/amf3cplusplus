@@ -38,7 +38,6 @@ the following conditions are met:
 #include <Windows.h>
 
 #include <string>
-#include <map>
 #include <vector>
 
 
